@@ -1,0 +1,24 @@
+Parameter/Observable,Mean/Value,Uncertainty
+Lattice Size,20x20,
+Beta,5,
+Thermalization Sweeps,1000,
+Measurement Sweeps,20000,
+Accetance Rate,0.49150456249999996,
+Total Execution Time (s),69.4728422164917,
+Step Size,1,
+
+Autocorrelation Times,,
+Plaquette T_int,1.6525729821926076,
+Q T_int,450.5362266320942,
+
+Observables,,
+Q Susceptibility,0.006669625,
+Wilson Loop (1x1),0.8934782407747923,5.324968973723838e-05
+
+AvgP (Naive),0.8934782407747923,5.324968973723837e-05
+AvgP (Boot),0.8934782407747923,7.30856751227791e-05
+AvgP (Gamma),0.8934782407748995,9.680825761303563e-05
+
+Q (Naive),0.10805,0.011524268301067968
+Q (Boot),0.10805,0.2643398812876896
+Q (Gamma),0.10805,0.3459339750234729
